@@ -1,1 +1,1 @@
-This project contains more Linked List tasks.
+This project contains tasks related to Linked Lists.
